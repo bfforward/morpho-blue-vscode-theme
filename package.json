@@ -9,12 +9,26 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "teal",
+    "morpho",
+    "blue"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "Morpho Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/Morpho Blue-color-theme.json"
+        "path": "./themes/morpho-blue-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "morpho-blue-icons",
+        "label": "Morpho Blue Icons",
+        "path": "./morpho-blue-icons.json"
       }
     ]
   }
