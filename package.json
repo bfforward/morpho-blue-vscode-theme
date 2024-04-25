@@ -1,0 +1,21 @@
+{
+  "name": "morpho-blue",
+  "displayName": "Morpho Blue",
+  "description": "A minimal VSCode theme with teal accents.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Morpho Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Morpho Blue-color-theme.json"
+      }
+    ]
+  }
+}
