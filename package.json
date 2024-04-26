@@ -2,7 +2,8 @@
   "name": "morpho-blue",
   "displayName": "Morpho Blue",
   "description": "A minimal VSCode theme with teal accents.",
-  "version": "0.0.1",
+  "icon": "./assets/icon.png",
+  "version": "0.0.3",
   "publisher": "BigFootForward",
   "repository": {
     "type": "git",
