@@ -3,7 +3,7 @@
   "displayName": "Morpho Blue",
   "description": "A minimal VSCode theme with teal accents.",
   "icon": "assets/icon.png",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "BigFootForward",
   "repository": {
     "type": "git",
