@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://github.com/tannersatch/morpho-blue-vscode-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Monospace Theme for VSCode</h2>
+    <img src="https://github.com/tannersatch/morpho-blue-vscode-theme/raw/main/assets/icon.png" width="120" />
+    <h2 align="center">Morpho Blue Theme for VSCode</h2>
 </p>
 
 <p align="center">
-    A minimal VSCode theme with real accents. 
+    A minimal VSCode theme with teal accents. 
     <br />
 </p>
 
